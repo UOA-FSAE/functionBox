@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='FSAE47_Function_Box_Test',
-    version='0.1',
+    version='0.1.1',
     license='MIT',
     author="Toby Osborne",
     author_email='toby.osborne@fsae.co.nz',
