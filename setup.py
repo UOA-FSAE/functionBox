@@ -14,5 +14,4 @@ setup(
     install_requires=[
           'scikit-learn',
       ],
-
 )
