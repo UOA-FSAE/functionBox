@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='example_publish_pypi_medium',
+    name='FSAE47_Function_Box_Test',
     version='0.1',
     license='MIT',
     author="Toby Osborne",
